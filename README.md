@@ -8,3 +8,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:augusto-estevao@hotmail.com)](mailto:augusto.monte@a.ucb.br)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/august.svg/)](https://www.instagram.com/august.svg/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-estev%C3%A3o-monte-448a80136/)](https://www.linkedin.com/in/augusto-estev%C3%A3o-monte-448a80136/)
+[![Outlook Badge]
