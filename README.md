@@ -2,8 +2,7 @@
 
 Olá, meu nome é Augusto Estevão Monte tenho 19 anos.
 
-
-Por fim, mesclei essas duas áreas de conhecimento e possuo total competência de atuar como Desenvolvedor Fullstack. No âmbito pessoal, possuo uma boa capacidade de aprender por conta própria, ótima convivência em grupo e um apreço por ensinar. Um dos meus sonhos, além de atuar como desenvolvedor, é ajudar a comunidade de programação no Brasil, estando ligado a palestras, hackathons, eventos no geral e afins. 
+Sou um entusiasta/apaixonado por tecnologia, sempre me interessei pela área de programação e especialmente Design, atualmente possuo conhecimentos de HTML,CSS,SASS,UI/UX Design.
 
 
 ## Github Stats
