@@ -23,7 +23,6 @@ Sou um entusiasta/apaixonado por tecnologia, sempre me interessei pela área de 
 <img src="https://img.shields.io/badge/Sass-C76494.svg?&logo=sass&logoColor=white&style=flat&style=plastic" height="25"/>
 <img src="https://img.shields.io/badge/Bootstrap-6B419A.svg?&logo=bootstrap&logoColor=white&style=flat&style=plastic" height="25"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?&logo=github&style=flat&style=plastic" height="25"/>
-<img src="https://img.shields.io/badge/GitLab-white.svg?&logo=gitlab&logoColor=white&style=flat&style=plastic" height="25"/>
 <img src="https://img.shields.io/badge/-Git-FF4500?&logo=git&logoColor=white&style=flat&style=plastic" height="25"/>
 </p>
 
