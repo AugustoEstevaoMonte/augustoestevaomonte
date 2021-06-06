@@ -12,8 +12,8 @@ Sou um entusiasta/apaixonado por tecnologia, sempre me interessei pela área de 
 
 ## Contatos
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-estev%C3%A3o-monte-448a80136/)](https://www.linkedin.com/in/augusto-estev%C3%A3o-monte-448a80136/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/AugustoEs)](https://t.me/AugustoEs)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-estev%C3%A3o-monte-448a80136/)](https://www.linkedin.com/in/augusto-estev%C3%A3o-monte-448a80136/)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logo=telegram&logoColor=white&link=https://t.me/AugustoEs)](https://t.me/AugustoEs)
 
 ## 💻 Hard Skills
 <p align="center">
