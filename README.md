@@ -26,5 +26,6 @@ Sou um entusiasta/apaixonado por tecnologia, sempre me interessei pela área de 
 <img src="https://img.shields.io/badge/-Git-FF4500?&logo=git&logoColor=white&style=flat&style=plastic" height="25"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25"/>
+<img src="https://aleen42.github.io/badges/src/photoshop.svg" height="25"/>
 </p>
 
