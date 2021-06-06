@@ -18,7 +18,7 @@ Sou um entusiasta/apaixonado por tecnologia, sempre me interessei pela área de 
 ## 💻 Hard Skills
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&logo=javascript&logoColor=black&style=flat&style=plastic" height="25"/>
-<img src="https://img.shields.io/badge/-HTML5-F16529?logo=html5&logoColor=white&style=flat&style=plastic" height="25"/>
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-CSS3-00BFFF?logo=css3&logoColor=white&style=flat&style=plastic" height="25"/>
 <img src="https://img.shields.io/badge/Sass-C76494.svg?&logo=sass&logoColor=white&style=flat&style=plastic" height="25"/>
 <img src="https://img.shields.io/badge/Bootstrap-6B419A.svg?&logo=bootstrap&logoColor=white&style=flat&style=plastic" height="25"/>
