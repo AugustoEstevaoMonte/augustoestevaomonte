@@ -31,5 +31,5 @@ Sou um entusiasta/apaixonado por tecnologia, sempre me interessei pela área de 
 
 <h2 align="start">🐍 Meus commits 🐍</h2>
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/AugustoEstevaoMonte/augustoestevaomonte/master/github-user-contribution%20(1).svg)
 
