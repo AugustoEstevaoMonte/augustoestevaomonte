@@ -1,7 +1,5 @@
 # Oi 👋
 
-Olá, meu nome é Augusto Estevão Monte tenho 19 anos.
-
 Sou um entusiasta/apaixonado por tecnologia, sempre me interessei pela área de programação e especialmente Design.
 
 
