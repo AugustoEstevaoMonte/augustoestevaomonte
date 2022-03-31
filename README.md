@@ -5,7 +5,7 @@
 
 <h1 align="center">Oi 👋</h1>
 
-Sou um entusiasta/apaixonado por tecnologia, sempre me interessei pela área de programação e especialmente Design.
+<p align="center">Sou um entusiasta/apaixonado por tecnologia, sempre me interessei pela área de programação e especialmente Design.</p>
 
 
 <h2 align="center">Github Stats</h2>
