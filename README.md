@@ -2,6 +2,7 @@
 <img src="animation.gif" alt="">
 </h4>
 
+<p style="text-align: center;">
 
 # Oi 👋
 
@@ -36,3 +37,4 @@ Sou um entusiasta/apaixonado por tecnologia, sempre me interessei pela área de 
 
 ![](https://raw.githubusercontent.com/AugustoEstevaoMonte/augustoestevaomonte/master/github-user-contribution%20(1).svg)
 
+</p>
