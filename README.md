@@ -12,6 +12,7 @@
 <br>
 ![github stats](https://github-readme-stats.vercel.app/api?username=augustoestevaomonte&show_icons=true&theme=dark&hide_border=true&layout=compact)
 ![github stats lang](https://github-readme-stats.vercel.app/api/top-langs/?username=augustoestevaomonte&layout=compact&theme=dark&hide_border=true)
+<br>
 ## Contatos
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-estev%C3%A3o-monte-448a80136/)](https://www.linkedin.com/in/augusto-estev%C3%A3o-monte-448a80136/)
