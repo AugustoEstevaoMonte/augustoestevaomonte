@@ -32,9 +32,3 @@ Sou um entusiasta/apaixonado por tecnologia, sempre me interessei pela área de 
 <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25"/>
 </p>
-
-<h2 align="start">🐍 Meus commits 🐍</h2>
-
-![](https://raw.githubusercontent.com/AugustoEstevaoMonte/augustoestevaomonte/master/github-user-contribution%20(1).svg)
-
-</p>
