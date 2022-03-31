@@ -5,14 +5,14 @@
 
 <h1 align="center">Oi 👋</h1>
 <br>
-<p align="center">Sou um entusiasta/apaixonado por tecnologia, sempre me interessei pela área de programação e especialmente Design.</p>
+<p align="center">Sou um entusiasta/apaixonado por tecnologia, sempre me interessei pela área de programação e especialmente Design.</p><br>
 
 
-<h2 align="center">Github Stats<br>
+<h2 align="center">Github Stats<br><br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=augustoestevaomonte&show_icons=true&theme=dark&hide_border=true&layout=compact" alt="">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoestevaomonte&layout=compact&theme=dark&hide_border=true" alt="">
-<br>
+<br><br>
 </h2>
 ## Contatos
 
