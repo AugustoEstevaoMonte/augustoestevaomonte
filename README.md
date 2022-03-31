@@ -13,7 +13,7 @@
 <h2 align="center">Github Status</h2><br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=augustoestevaomonte&show_icons=true&theme=highcontrast&hide_border=true&layout=compact" width="350" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=augustoestevaomonte&show_icons=true&theme=highcontrast&hide_border=true&layout=compact" width="420" height="165">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoestevaomonte&layout=compact&theme=highcontrast&hide_border=true" width="350" height="165">
 </p><br>
 
