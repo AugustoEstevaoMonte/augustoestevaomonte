@@ -1,3 +1,8 @@
+<h4 align="center">
+<img src="animation.gif" alt="">
+</h4>
+
+
 # Oi 👋
 
 Sou um entusiasta/apaixonado por tecnologia, sempre me interessei pela área de programação e especialmente Design.
