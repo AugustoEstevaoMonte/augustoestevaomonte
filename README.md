@@ -9,8 +9,8 @@ Sou um entusiasta/apaixonado por tecnologia, sempre me interessei pela área de 
 
 
 ## Github Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=augustoestevaomonte&show_icons=true&theme=highcontrast&hide_border=true&layout=compact)
-![github stats lang](https://github-readme-stats.vercel.app/api/top-langs/?username=augustoestevaomonte&layout=compact&theme=highcontrast&hide_border=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=augustoestevaomonte&show_icons=true&theme=dark&hide_border=true&layout=compact)
+![github stats lang](https://github-readme-stats.vercel.app/api/top-langs/?username=augustoestevaomonte&layout=compact&theme=dark&hide_border=true)
 
 ## Contatos
 
