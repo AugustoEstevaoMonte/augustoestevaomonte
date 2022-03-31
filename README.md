@@ -4,22 +4,28 @@
 
 <p style="text-align: center;">
 
-# Oi 👋
+<br>
+<h1 align="center"> Oi 👋</h1><br>
 
-Sou um entusiasta/apaixonado por tecnologia, sempre me interessei pela área de programação e especialmente Design.
-
-
-## Github Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=augustoestevaomonte&show_icons=true&theme=highcontrast&hide_border=true&layout=compact)
-![github stats lang](https://github-readme-stats.vercel.app/api/top-langs/?username=augustoestevaomonte&layout=compact&theme=highcontrast&hide_border=true)
+<p align="center">Sou um entusiasta/apaixonado por tecnologia, sempre me interessei pela área de programação e especialmente Design.</p><br>
 
 
-## Contatos
+<h2 align="center">Github Status</h2><br>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-estev%C3%A3o-monte-448a80136/)](https://www.linkedin.com/in/augusto-estev%C3%A3o-monte-448a80136/)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logo=telegram&logoColor=white&link=https://t.me/AugustoEs)](https://t.me/AugustoEs)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=augustoestevaomonte&show_icons=true&theme=highcontrast&hide_border=true&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoestevaomonte&layout=compact&theme=highcontrast&hide_border=true">
+</p><br>
 
-## 💻 Hard Skills
+<h2 align="center">Contatos</h2><br>
+
+<p align="center" >
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-estev%C3%A3o-monte-448a80136/">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logo=telegram&logoColor=white&link=https://t.me/AugustoEs)](https://t.me/AugustoEs">
+</p><br>
+
+
+<h2 align="center">💻 Hard Skills</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25"/>
