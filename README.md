@@ -1,6 +1,6 @@
 <h4 align="center">
 <img src="animation.gif" alt="">
-</h4>
+
 
 
 # Oi 👋
@@ -12,6 +12,7 @@ Sou um entusiasta/apaixonado por tecnologia, sempre me interessei pela área de 
 ![github stats](https://github-readme-stats.vercel.app/api?username=augustoestevaomonte&show_icons=true&theme=highcontrast&hide_border=true&layout=compact)
 ![github stats lang](https://github-readme-stats.vercel.app/api/top-langs/?username=augustoestevaomonte&layout=compact&theme=highcontrast&hide_border=true)
 
+</h4>
 
 ## Contatos
 
