@@ -10,8 +10,8 @@
 
 <h2 align="center">Github Stats</h2>
 <br>
-![github stats](https://github-readme-stats.vercel.app/api?username=augustoestevaomonte&show_icons=true&theme=dark&hide_border=true&layout=compact)
-![github stats lang](https://github-readme-stats.vercel.app/api/top-langs/?username=augustoestevaomonte&layout=compact&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=augustoestevaomonte&show_icons=true&theme=dark&hide_border=true&layout=compact" alt="">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoestevaomonte&layout=compact&theme=dark&hide_border=true" alt="">
 <br>
 ## Contatos
 
