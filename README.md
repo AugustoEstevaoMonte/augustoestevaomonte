@@ -14,9 +14,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoestevaomonte&layout=compact&theme=dark&hide_border=true" alt="">
 <br><br>
 </h2>
-
+<br><br>
 <h2 align="center">Contato</h2>
-
+<br><br>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-estev%C3%A3o-monte-448a80136/)](https://www.linkedin.com/in/augusto-estev%C3%A3o-monte-448a80136/)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logo=telegram&logoColor=white&link=https://t.me/AugustoEs)](https://t.me/AugustoEs)
 
