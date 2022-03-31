@@ -4,11 +4,12 @@
 
 
 <h1 align="center">Oi 👋</h1>
-
+<br>
 <p align="center">Sou um entusiasta/apaixonado por tecnologia, sempre me interessei pela área de programação e especialmente Design.</p>
 
 
 <h2 align="center">Github Stats</h2>
+<br>
 ![github stats](https://github-readme-stats.vercel.app/api?username=augustoestevaomonte&show_icons=true&theme=dark&hide_border=true&layout=compact)
 ![github stats lang](https://github-readme-stats.vercel.app/api/top-langs/?username=augustoestevaomonte&layout=compact&theme=dark&hide_border=true)
 ## Contatos
