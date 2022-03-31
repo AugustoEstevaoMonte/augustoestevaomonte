@@ -40,6 +40,6 @@
 </p><br>
 
 
-<h2 align="start">🐍 Meus commits 🐍</h2>
+<h2 align="center">🐍 Meus commits 🐍</h2>
 
 ![](https://raw.githubusercontent.com/AugustoEstevaoMonte/augustoestevaomonte/master/github-user-contribution%20(1).svg)
