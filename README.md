@@ -9,7 +9,7 @@
 <p align="center">Sou um entusiasta/apaixonado por tecnologia, sempre me interessei pela área de programação e especialmente Design.</p>
 
 
-<h2 align="center">Github Status</h2><br>
+<br><h2 align="center">Github Status</h2><br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=augustoestevaomonte&show_icons=true&theme=highcontrast&hide_border=true&layout=compact" width="420" height="165">
