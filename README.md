@@ -4,7 +4,6 @@
 
 <p style="text-align: center;">
 
-<br>
 <h1 align="center"> Oi 👋</h1><br>
 
 <p align="center">Sou um entusiasta/apaixonado por tecnologia, sempre me interessei pela área de programação e especialmente Design.</p><br>
