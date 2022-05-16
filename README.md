@@ -2,7 +2,7 @@
 <img src="animation.gif" alt="">
 </h4>
 
-<img src="https://AugustoEstevaoMonte.wrapped.run">
+<img src="https://github.com/AugustoEstevaoMonte/augustoestevaomonte/blob/master/wrapped_AugustoEstevaoMonte.png">
 
 <p style="text-align: center;">
 
