@@ -2,6 +2,8 @@
 <img src="animation.gif" alt="">
 </h4>
 
+<img src="https://github.com/AugustoEstevaoMonte/augustoestevaomonte/blob/46b602b6038e1deb3bacdbe385f98bb9803a2f7a/animation.gif">
+
 <p style="text-align: center;">
 
 <h1 align="center"> Oi 👋</h1><br>
