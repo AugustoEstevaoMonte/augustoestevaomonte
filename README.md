@@ -1,7 +1,3 @@
-<h4 align="center">
-<img src="animation.gif" alt="">
-</h4>
-
 <img src="https://github.com/AugustoEstevaoMonte/augustoestevaomonte/blob/master/wrapped_AugustoEstevaoMonte.png">
 
 <p style="text-align: center;">
@@ -44,3 +40,8 @@
 <h2 align="center">🐍 Meus commits 🐍</h2>
 
 ![](https://raw.githubusercontent.com/AugustoEstevaoMonte/augustoestevaomonte/master/github-user-contribution%20(1).svg)
+
+
+<h4 align="center">
+<img src="animation.gif" alt="">
+</h4>
