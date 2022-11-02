@@ -50,9 +50,9 @@ Sou um desenvolvedor full-stack e estudante de segurança da informação buscan
 <details>
  <summary><h3>👨‍💻 Minha jornada do código</h3></summary>
    👾 Afinal, quem é o Augusto?
-Atualmente trabalho na Jobspace criando websites usando VTEX e Wordpress, tem sido uma jornada desafiadora e instigante consegui aprender várias coisas novas e principalmente trabalhar com prazos.
+Atualmente estou em busca de um emprego em Business Intelligence, porém tenho mais experiência criando websites usando VTEX e Wordpress, o que uma jornada desafiadora e instigante na qual consegui aprender várias coisas novas e principalmente trabalhar com prazos, agora estou em busca de consolidar os meus conhecimentos na área de Data Science.
 
-No meu tempo livre gosto de ler livros sobre segurança e desenvolvimento de software, pois acredito que todo desenvolvedor deve ter conhecimento sobre segurança em aplicações para não desenvolver softwares com vulnerabilidades.
+No meu tempo livre gosto de ler livros sobre data science na prática, modelagem e governança de dados.
 
 👨‍💻 Jornada Full stack
 [2021] Estágiário no Conselho Federal de Medicina atuei desenvolvendo do zero um site desde UI/UX, front-end até o back-end com Wordpress, construí o hotsite do PAE. 
