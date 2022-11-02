@@ -2,7 +2,7 @@
 
 **`Desenvolvedor full-stack e um estudante de segurança da informação`**
 
-Sou um desenvolvedor full-stack e estudante de segurança da informação buscando constantemente aprender novas coisas e me desafiar a resolver problemas.
+Sou um desenvolvedor full-stack e estudante de business intelligence buscando constantemente aprender novas coisas e me desafiar a resolver problemas.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight">
