@@ -1,6 +1,6 @@
 # 🏄‍♂️ Augusto Estevão
 
-**`Desenvolvedor full-stack e um estudante de segurança da informação`**
+**`Desenvolvedor full-stack, atualmente dedicando o meu tempo a aprender sobre business intelligence e data science`**
 
 Sou um desenvolvedor full-stack e estudante de business intelligence buscando constantemente aprender novas coisas e me desafiar a resolver problemas.
 
