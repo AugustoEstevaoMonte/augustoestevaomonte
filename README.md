@@ -2,8 +2,6 @@
 
 **`Não sou mais desenvolvedor.`**
 
-Sou um desenvolvedor full-stack e estudante de business intelligence buscando constantemente aprender novas coisas e me desafiar a resolver problemas.
-
    <p align="left">
       <a href="https://www.youtube.com/c/fknight">
       <a href="https://github.com/AugustoEstevaoMonte?tab=followers">
