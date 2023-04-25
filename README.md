@@ -1,7 +1,5 @@
 # 🏄‍♂️ Augusto Estevão
 
-**`Não sou mais desenvolvedor.`**
-
    <p align="left">
       <a href="https://www.youtube.com/c/fknight">
       <a href="https://github.com/AugustoEstevaoMonte?tab=followers">
