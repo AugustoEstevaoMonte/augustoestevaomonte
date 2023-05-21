@@ -2,7 +2,7 @@
 
 <h2>Olá 👋, seja bem-vindo!</h2>
 
-<p>Meu nome é Augusto, atualmente sou desenvolvedor Python almejando uma carreira em Ciência de Dados.</p>
+<p>Meu nome é Augusto, atualmente sou um entusiasta do desenvolvimento web com interesse em trabalhar com a stack MERN (MongoDB, Express, React e Node). Tenho experiência em Node.js e MongoDB, e estou em busca de oportunidades para aprimorar meus conhecimentos em Express e React. Estou motivado(a) a aprender e crescer como desenvolvedor(a) MERN para construir aplicações web modernas e eficientes.</p>
 
 </br>
 
