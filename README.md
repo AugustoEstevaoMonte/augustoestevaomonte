@@ -2,7 +2,7 @@
 
 <h2>Olá 👋, seja bem-vindo!</h2>
 
-<p>Meu nome é Augusto, atualmente sou um entusiasta do desenvolvimento web com interesse em trabalhar com a stack MERN (MongoDB, Express, React e Node). Tenho experiência em Node.js e MongoDB, e estou em busca de oportunidades para aprimorar meus conhecimentos em Express e React. Estou motivado(a) a aprender e crescer como desenvolvedor(a) MERN para construir aplicações web modernas e eficientes.</p>
+<p>Estou muito animado em compartilhar minha jornada de transição de Desenvolvimento Web para Ciência de Dados e Análise de Dados no meu GitHub. Aqui, você encontrará uma variedade de projetos que demonstram minha capacidade de manipular, analisar e visualizar dados usando várias ferramentas e tecnologias. Além disso, continuo a explorar novas técnicas e metodologias para extrair insights valiosos dos dados. Embora minha experiência anterior em desenvolvimento web tenha sido inestimável, estou ansioso para mergulhar mais fundo no campo da ciência de dados e análise de dados. Acompanhe minha jornada enquanto eu embarco nesta nova aventura! #github #datascience #dataanalysis</p>
 
 </br>
 
