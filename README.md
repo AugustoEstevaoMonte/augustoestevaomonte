@@ -2,7 +2,7 @@
 
 <h2>Olá 👋, seja bem-vindo!</h2>
 
-<p>Estou muito animado em compartilhar minha jornada de transição de Desenvolvimento Web para Ciência de Dados e Análise de Dados no meu GitHub. Aqui, você encontrará uma variedade de projetos que demonstram minha capacidade de manipular, analisar e visualizar dados usando várias ferramentas e tecnologias. Além disso, continuo a explorar novas técnicas e metodologias para extrair insights valiosos dos dados. Embora minha experiência anterior em desenvolvimento web tenha sido inestimável, estou ansioso para mergulhar mais fundo no campo da ciência de dados e análise de dados. Acompanhe minha jornada enquanto eu embarco nesta nova aventura! #github #datascience #dataanalysis</p>
+<p>Estou muito animado em compartilhar minha jornada de transição de Desenvolvimento Web para Ciência de Dados e Análise de Dados no meu GitHub. Aqui, você encontrará uma variedade de projetos que demonstram minha capacidade de manipular, analisar e visualizar dados usando várias ferramentas e tecnologias. Além disso, continuo a explorar novas técnicas e metodologias para extrair insights valiosos dos dados. Embora minha experiência anterior em desenvolvimento web tenha sido inestimável, estou ansioso para mergulhar mais fundo no campo da ciência de dados e análise de dados. Acompanhe minha jornada enquanto eu embarco nesta nova aventura! </p>
 
 </br>
 
